@@ -1,3 +1,3 @@
-pcb/electronic-speed-controller/esc-backups/*
-pcb/electronic-speed-controller/esc.kicad_prl
-pcb/electronic-speed-controller/fp-info-cache
+boards/electronic-speed-controller/esc-backups/*
+boards/electronic-speed-controller/esc.kicad_prl
+boards/electronic-speed-controller/fp-info-cache
