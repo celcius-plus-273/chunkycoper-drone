@@ -1,6 +1,8 @@
 # Electronic Design Files
 
-Chunkycopter's electronic circuits are designed using both Autodesk Fusion 360 (previously EAGLE), and KiCad 7. The design is arranged into a single board which is holds the following components:
+Chunkycopter's electronic circuits are designed using both Autodesk Fusion 360 (previously EAGLE), and KiCad 7. 
+
+The design is arranged into a single board which holds the following components:
 1. Microcontroller
 2. Electronic Speed Controllers
 3. Power Management
