@@ -3,4 +3,5 @@
   (lib (name "XT60PW-M")(type "KiCad")(uri "${KIPRJMOD}/lib/XT60PW-M/XT60PW-M.kicad_sym")(options "")(descr "XT60 Right Angle Connector"))
   (lib (name "IRF7440TRPBF")(type "KiCad")(uri "${KIPRJMOD}/lib/IRF7440TRPBF/IRF7440TRPBF.kicad_sym")(options "")(descr ""))
   (lib (name "SMF4L24AT1G")(type "KiCad")(uri "${KIPRJMOD}/lib/SMF4L24AT1G/SMF4L24AT1G.kicad_sym")(options "")(descr ""))
+  (lib (name "TLV3601DCKR")(type "KiCad")(uri "${KIPRJMOD}/lib/TLV3601DCKR/TLV3601DCKR.kicad_sym")(options "")(descr ""))
 )
