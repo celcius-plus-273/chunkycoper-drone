@@ -4,3 +4,4 @@ boards/esc/fp-info-cache
 boards/esc/gerber-output/*
 boards/esc/gerber-output.*
 boards/esc-simple/esc-simple-backups/*
+.DS_Store
